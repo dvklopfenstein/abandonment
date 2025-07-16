@@ -3,9 +3,9 @@ A succinct, spiritual manuscript consisting of 54 short meditations,
 designed to help usher you gently into living your life in the moment
 to fulfill your purpose in life.
 
-Read an [excerp](doc/excerpt.pdf) of the short, sweet pocket version.
+Read an [excerpt](doc/excerpt.pdf) of the short, sweet, portable pocket version.
 
-The (much) longer study version is under development.
+The (much) longer, heavier, hardcover study version is under development.
 
 ![Front cover](doc/images/cover_front.jpg)
 

@@ -7,8 +7,8 @@ Read an [excerpt](doc/excerpt.pdf) of the short, sweet, portable pocket version.
 
 The (much) longer, heavier, hardcover study version is under development.
 
----
-Contact <a href="mailto:dvklopfenstein@protonmail.com">DV Klopfenstein, PhD</a> for more information.    
+Contact <a href="mailto:dvklopfenstein@protonmail.com">DV Klopfenstein, PhD</a> for more information.
+
 Cover art is by <a href="mailto:iyanna.cj.conix@gmail.com">Jay Cee</a>.
 
 

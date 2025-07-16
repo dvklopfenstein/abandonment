@@ -10,10 +10,8 @@ The (much) longer, heavier, hardcover study version is under development.
 ---
 Contact <a href="mailto:dvklopfenstein@protonmail.com">DV Klopfenstein, PhD</a> for more information.    
 Cover art is by <a href="mailto:iyanna.cj.conix@gmail.com">Jay Cee</a>.    
-[Citation](#citation)
 
 <p align="center"><img src="https://github.com/dvklopfenstein/abandonment/raw/main/doc/images/cover_front.jpg" alt="abandonment" width="600"/></p>
-https://www.myidentifiers.com/title_registration?isbn=979-8-9908706-2-8&icon_type=Assigned
 
 ## Citation
 ```
